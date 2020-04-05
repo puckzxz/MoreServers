@@ -16,9 +16,11 @@
 .wrapper-1Rf91z {
   width: 126px;
 }
+
 .scrollerWrap-1IAIlv {
   width: 132px;
 }
+
 .wrapper-1Rf91z .scroller-2TZvBN {
   display: flex;
   flex-flow: row wrap;
@@ -29,19 +31,23 @@
 .base-3dtUhz {
   left: 126px;
 }
+
 .listItem-2P_4kh {
   width: auto;
-  margin-left: 9px;
+  margin-left: 0px;
 }
+
 .wrapper-1Rf91z .scroller-2TZvBN > div.listItem-2P_4kh:nth-child(1) {
   width: 100% !important;
   margin-bottom: 8px;
   margin-left: 2px;
 }
+
 .wrapper-sa6paO {
   height: 54px;
   width: 54px;
 }
+
 .pill-31IEus {
   left: -2px;
   position: absolute;
@@ -50,12 +56,11 @@
 
 .wrapper-1Rf91z .scroller-2TZvBN .guildSeparator-3s64Iy {
   position: relative;
-  width: 100%;
   margin-top: 10px;
   width: 80px;
   display: block;
   margin: 10px auto 5px;
-  margin-left: 12px;
+  margin-left: 24px;
 }
 
 .wrapper-21YSNc {
@@ -73,7 +78,7 @@
   margin-top: 0;
   position: absolute;
   top: 0;
-  right: 2px !important;
+  right: 1px !important;
   width: 48px;
   height: 48px !important;
   transform: none !important;
@@ -95,7 +100,7 @@
   display: none;
 }
 
-.wrapper-1Rf91z .scroller-2TZvBN > div[aria-label="Servers"] {
+.wrapper-1Rf91z .scroller-2TZvBN > div[aria-label="tree"] {
   display: flex;
   flex-direction: column;
   flex-flow: row wrap;
@@ -105,4 +110,12 @@
   display: flex;
   justify-content: center;
   width: 100%;
+}
+
+.expandedFolderBackground-2sPsd- {
+  left: 0px;
+}
+
+.tutorialContainer-1v44GL .listItem-2P_4kh {
+  right: 3px;
 }
