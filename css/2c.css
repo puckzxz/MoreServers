@@ -100,7 +100,7 @@
   display: none;
 }
 
-.wrapper-1Rf91z .scroller-2TZvBN > div[aria-label="tree"] {
+.wrapper-1Rf91z .scroller-2TZvBN > div[role="tree"] {
   display: flex;
   flex-direction: column;
   flex-flow: row wrap;
