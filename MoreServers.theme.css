@@ -1,14 +1,22 @@
 /**
- * @name MoreServers3C
+ * @name MoreServers
  * @author puckzxz#2080
- * @version 1.0
- * @description 3 Columns of Servers
+ * @version 2.0
+ * @description Default Discord but with more servers
  * @source https://github.com/puckzxz/MoreServers
 */
 
-@import url(https://puckzxz.github.io/MoreServers/css/3c.css);
+@import url(https://puckzxz.github.io/MoreServers/build/v2/ms.v2.css);
 
 :root {
+  /*
+    Server Listing Width
+    Single Column:  72px
+    Double Column:  126px
+    Triple Column:  184px
+    Quad Column:    242px
+  */
+  --server-listing-width: 126px;
   /*
   To disable the rainbow animation change rainbow to none
   */
