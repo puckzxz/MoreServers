@@ -40,7 +40,7 @@
   top: -2px;
 }
 
-.wrapper-3NnKdC .scroller-1Bvpku .guildSeparator-33mFX6 {
+.wrapper-3NnKdC .scroller-1Bvpku .guildSeparator-EOYZLM {
   position: relative;
   margin-top: 10px;
   width: 80px;
@@ -139,10 +139,6 @@
   outline: none;
 }
 
-.scroller-1Bvpku.none-2Eo-qx.scrollerBase-289Jih > div:nth-last-child(2) {
-  margin-left: 10px;
-}
-
 .folderIconWrapper-1_bOZe {
   border-radius: 100%;
 }
@@ -153,4 +149,12 @@
 
 .wrapper-sa6paO {
   overflow: visible;
+}
+
+.listItem-1hlISG {
+  width: initial;
+}
+
+.pill-1Z5PKm .item-2hkk8m {
+  opacity: 0 !important;
 }
