@@ -158,3 +158,26 @@
 .pill-1Z5PKm .item-2hkk8m {
   opacity: 0 !important;
 }
+
+.tutorialContainer-11ICd5 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.tutorialContainer-11ICd5 .listItem-GuPuDH {
+  right: 5px;
+}
+
+.listItem-2Ig28I {
+  width: initial;
+}
+
+.expandedFolderBackground-3ZDF05 {
+  left: 0px;
+}
+
+.folder-2w6LX1,
+.folderIconWrapper-1Ml_1q {
+  border-radius: 100%;
+}
