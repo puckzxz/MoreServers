@@ -1,4 +1,4 @@
-.wrapper_a7e7a8 {
+.wrapper__216eb {
   width: var(--server-listing-width);
 }
 
@@ -6,14 +6,14 @@
   width: calc(var(--server-listing-width) + 6px);
 }
 
-.wrapper_a7e7a8 .scroller__3d071 {
+.wrapper__216eb .scroller_de945b {
   display: flex;
   flex-flow: row wrap;
   padding-left: 0;
   align-content: flex-start;
 }
 
-.wrapper_a7e7a8 .scroller__3d071 > div:not(.listItem-GuPuDH) > div {
+.wrapper__216eb .scroller_de945b > div:not(.listItem-GuPuDH) > div {
   width: 50px;
   margin-left: 10px;
 }
@@ -23,13 +23,13 @@
   margin-left: 0px;
 }
 
-.wrapper_a7e7a8 .scroller__3d071 > div.listItem-GuPuDH:nth-child(1) {
+.wrapper__216eb .scroller_de945b > div.listItem-GuPuDH:nth-child(1) {
   width: 100% !important;
   margin-bottom: 8px;
   margin-left: 2px;
 }
 
-.wrapper__3670f {
+.wrapper_b4903b {
   height: 54px;
   width: 54px;
 }
@@ -40,7 +40,7 @@
   top: -2px;
 }
 
-.wrapper_a7e7a8 .scroller__3d071 .guildSeparator__641a8 {
+.wrapper__216eb .scroller_de945b .guildSeparator_b8044f {
   position: relative;
   margin-top: 10px;
   width: 80px;
@@ -86,8 +86,8 @@
   transform: none !important;
 }
 
-.wrapper_a7e7a8
-  .scroller__3d071
+.wrapper__216eb
+  .scroller_de945b
   > div.listItem-GuPuDH:nth-child(1)
   .item_f9d377 {
   opacity: 0 !important;
@@ -102,7 +102,7 @@
   display: none;
 }
 
-.wrapper_a7e7a8 .scroller__3d071 > div {
+.wrapper__216eb .scroller_de945b > div {
   display: flex;
   flex-direction: column;
   flex-flow: row wrap;
@@ -126,8 +126,8 @@
   left: 1px;
 }
 
-.wrapper_a7e7a8
-  .scroller__3d071
+.wrapper__216eb
+  .scroller_de945b
   div
   .listItem-GuPuDH
   .pill__357e7
@@ -147,11 +147,11 @@
   border-radius: 100%;
 }
 
-.wrapper__3670f {
+.wrapper_b4903b {
   overflow: visible;
 }
 
-.listItem__3876c {
+.listItem__39e63 {
   width: initial;
 }
 
@@ -159,29 +159,29 @@
   opacity: 0 !important;
 }
 
-.tutorialContainer__890ea {
+.tutorialContainer_b06ae6 {
   display: flex;
   justify-content: center;
   width: 100%;
 }
 
-.tutorialContainer__890ea .listItem-GuPuDH {
+.tutorialContainer_b06ae6 .listItem-GuPuDH {
   right: 5px;
 }
 
-.listItem_fa7b36 {
+.listItem__48528 {
   width: initial;
 }
 
-.expandedFolderBackground__1bec6 {
+.expandedFolderBackground_b1385f {
   left: 0px;
 }
 
 .folder__17546,
-.folderIconWrapper__72239 {
+.folderIconWrapper__11165 {
   border-radius: 100%;
 }
 
-.guildSeparator_dcb3cc {
+.guildSeparator__75928 {
   background-color: transparent;
 }
