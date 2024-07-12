@@ -29,7 +29,7 @@
   margin-left: 2px;
 }
 
-.wrapper_fd07a3 {
+.wrapper_c4cd66 {
   height: 54px;
   width: 54px;
 }
@@ -60,7 +60,7 @@
   }
 }
 
-.item_fd07a3 {
+.item_c4cd66 {
   animation: var(--unread-server-animation) 3s linear infinite;
   border: 2px solid var(--unread-color);
   background: transparent;
@@ -79,11 +79,11 @@
 .wrapper_fea3ef
   .scroller_fea3ef
   > div.listItem-GuPuDH:nth-child(1)
-  .item_fd07a3 {
+  .item_c4cd66 {
   opacity: 0 !important;
 }
 
-.item_fd07a3:not([style*="height: 8px"]) {
+.item_c4cd66:not([style*="height: 8px"]) {
   border-color: transparent;
   background-color: transparent;
 }
@@ -121,7 +121,7 @@
   div
   .listItem-GuPuDH
   .pill_f36a5a
-  .item_fd07a3 {
+  .item_c4cd66 {
   opacity: 0 !important;
 }
 
@@ -137,11 +137,11 @@
   border-radius: 100%;
 }
 
-.wrapper_fd07a3 {
+.wrapper_c4cd66 {
   overflow: visible;
 }
 
-.pill_f36a5a .item_fd07a3 {
+.pill_f36a5a .item_c4cd66 {
   opacity: 0 !important;
 }
 
