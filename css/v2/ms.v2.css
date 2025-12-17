@@ -68,7 +68,7 @@
 
 ._581051df43c5ebb6-item {
   animation: var(--unread-server-animation) 3s linear infinite;
-  border: 2px solid var(--main-theme-color);
+  border: 2px solid var(--unread-color);
   background: transparent;
   display: block;
   border-radius: 30% !important;
