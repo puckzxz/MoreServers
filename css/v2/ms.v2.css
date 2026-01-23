@@ -1,34 +1,34 @@
-.ef3116c2da186559-wrapper {
+.wrapper_ef3116 {
   width: var(--server-listing-width);
 }
 
-.ef3116c2da186559-itemsContainer {
+.itemsContainer_ef3116 {
   width: calc(var(--server-listing-width) + 6px);
 }
 
-.ef3116c2da186559-wrapper .ef3116c2da186559-scroller {
+.wrapper_ef3116 .scroller_ef3116 {
   display: flex;
   flex-flow: row wrap;
   padding-left: 0;
   align-content: flex-start;
 }
 
-.dbd2630aec71879b-stack
-  ._650eb104245d257b-listItem:not(.wrapper__48112 ._650eb104245d257b-listItem) {
+.stack_dbd263
+  .listItem__650eb:not(.wrapper__48112 .listItem__650eb) {
   width: initial;
   padding: 1px;
   margin: 2px;
 }
 
-.dbd2630aec71879b-stack {
+.stack_dbd263 {
   justify-content: center !important;
 }
 
-.dbd2630aec71879b-stack .wrapper__48112 ._650eb104245d257b-listItem {
+.stack_dbd263 .wrapper__48112 .listItem__650eb {
   width: initial;
 }
 
-.ef3116c2da186559-scroller > ._650eb104245d257b-listItem {
+.scroller_ef3116 > .listItem__650eb {
   width: 100%;
 }
 
@@ -58,15 +58,15 @@
   }
 }
 
-.e5445cbd3ad226f2-pill {
+.pill_e5445c {
   width: 100% !important;
 }
 
-._581051df43c5ebb6-wrapper {
+.wrapper__58105 {
   overflow: visible !important;
 }
 
-._581051df43c5ebb6-item {
+.item__58105 {
   animation: var(--unread-server-animation) 3s linear infinite;
   border: 2px solid var(--unread-color);
   background: transparent;
@@ -81,41 +81,41 @@
   height: 100% !important;
 }
 
-.e5445cbd3ad226f2-pill ._581051df43c5ebb6-item:not([style*="height: 8px"]) {
+.pill_e5445c .item__58105:not([style*="height: 8px"]) {
   border-color: transparent;
   background-color: initial;
 }
 
-.dbd2630aec71879b-stack.ef3116c2da186559-scroller.none_d125d2.d125d22cdfd32cfe-scrollerBase {
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2 {
   justify-content: center;
 }
 
-.ef3116c2da186559-itemsContainer .dbd2630aec71879b-stack {
+.itemsContainer_ef3116 .stack_dbd263 {
   display: flex !important;
   flex-direction: column !important;
   flex-flow: row wrap !important;
   align-items: flex-start !important;
 }
 
-._67dba15a1ae9a3e9-wrapper .dbd2630aec71879b-stack {
+.wrapper__67dba .stack_dbd263 {
   display: initial !important;
   flex-direction: initial !important;
   flex-flow: initial !important;
   align-items: initial !important;
 }
 
-._1f388bcaa446c0c8-tutorialContainer {
+.tutorialContainer__1f388 {
   display: flex;
   justify-content: center;
   width: 100%;
 }
 
-.dbd2630aec71879b-stack .wrapper__48112 {
+.stack_dbd263 .wrapper__48112 {
   width: fit-content !important;
 }
 
-.dbd2630aec71879b-stack.ef3116c2da186559-scroller.none_d125d2.d125d22cdfd32cfe-scrollerBase
-  > ._650eb104245d257b-listItem {
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2
+  > .listItem__650eb {
   margin-bottom: 8px;
   width: 80%;
   display: flex;
@@ -125,50 +125,50 @@
   align-items: flex-start;
 }
 
-.dbd2630aec71879b-stack.ef3116c2da186559-scroller.none_d125d2.d125d22cdfd32cfe-scrollerBase:last-child
-  ._650eb104245d257b-listItem {
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2:last-child
+  .listItem__650eb {
   width: initial;
 }
 
-.dbd2630aec71879b-stack.ef3116c2da186559-scroller.none_d125d2.d125d22cdfd32cfe-scrollerBase:last-child
-  ._650eb104245d257b-listItem
-  ._5bc7ed9d4097f6b5-pill {
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2:last-child
+  .listItem__650eb
+  .pill__5bc7e {
   display: none !important;
 }
 
-.wrapper__48112._48112cbe77dc5022-isExpanded ._650eb104245d257b-listItem {
+.wrapper__48112.isExpanded__48112 .listItem__650eb {
   width: 100% !important;
 }
 
-.dbd2630aec71879b-stack.ef3116c2da186559-scroller.none_d125d2.d125d22cdfd32cfe-scrollerBase
+.stack_dbd263.scroller_ef3116.none_d125d2.scrollerBase_d125d2
   > div
-  ._650eb104245d257b-listItem
-  .ed9a5f50013e19ac-pill._581051df43c5ebb6-wrapper {
+  .listItem__650eb
+  .pill_ed9a5f.wrapper__58105 {
   display: none !important;
 }
 
-.wrapper__48112._48112cbe77dc5022-isExpanded .dbd2630aec71879b-stack {
+.wrapper__48112.isExpanded__48112 .stack_dbd263 {
   height: fit-content !important;
   display: flex !important;
   flex-direction: column !important;
 }
 
-.wrapper__48112._48112cbe77dc5022-isExpanded ._650eb104245d257b-listItem {
+.wrapper__48112.isExpanded__48112 .listItem__650eb {
   width: 100%;
 }
 
-.wrapper__48112._48112cbe77dc5022-isExpanded
-  .dbd2630aec71879b-stack
-  ._650eb104245d257b-listItem
-  .e5445cbd3ad226f2-pill._581051df43c5ebb6-wrapper
-  ._581051df43c5ebb6-item {
+.wrapper__48112.isExpanded__48112
+  .stack_dbd263
+  .listItem__650eb
+  .pill_e5445c.wrapper__58105
+  .item__58105 {
   width: 85% !important;
   height: 100% !important;
   left: 5px !important;
   top: -2px !important;
 }
 
-.wrapper__48112._48112cbe77dc5022-isExpanded .dbd2630aec71879b-stack {
+.wrapper__48112.isExpanded__48112 .stack_dbd263 {
   overflow: visible;
 }
 
@@ -176,40 +176,40 @@
   left: 0px;
 }
 
-._1f388bcaa446c0c8-tutorialContainer
-  ._650eb104245d257b-listItem
-  ._1f388bcaa446c0c8-pill._581051df43c5ebb6-wrapper {
+.tutorialContainer__1f388
+  .listItem__650eb
+  .pill__1f388.wrapper__58105 {
   display: none;
 }
 
-._48112cbe77dc5022-folderGroup {
+.folderGroup__48112 {
   width: 54px !important;
 }
 
-._48112cbe77dc5022-folderGroup:not(._48112cbe77dc5022-isExpanded)
-  ._650eb104245d257b-listItem
-  .e5445cbd3ad226f2-pill._581051df43c5ebb6-wrapper
-  ._581051df43c5ebb6-item {
+.folderGroup__48112:not(.isExpanded__48112)
+  .listItem__650eb
+  .pill_e5445c.wrapper__58105
+  .item__58105 {
   margin-left: -3px !important;
   width: 48px !important;
 }
 
-.dbd2630aec71879b-stack._48112cbe77dc5022-folderGuildsList {
+.stack_dbd263.folderGuildsList__48112 {
   height: 100% !important;
 }
 
-._48112cbe77dc5022-folderGroupBackground {
+.folderGroupBackground__48112 {
   left: 3px;
 }
 
-.ef3116c2da186559-unreadMentionsIndicatorTop {
+.unreadMentionsIndicatorTop_ef3116 {
   justify-self: center;
 }
 
-.ef3116c2da186559-wrapper .ef3116c2da186559-scroller {
+.wrapper_ef3116 .scroller_ef3116 {
   justify-content: center;
 }
 
-#guild-list-unread-dms .ed9a5f50013e19ac-pill {
+#guild-list-unread-dms .pill_ed9a5f {
   display: none;
 }
